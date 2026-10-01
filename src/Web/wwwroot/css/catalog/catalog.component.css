@@ -86,6 +86,7 @@
 .esh-catalog-button {
   background-color: #83D01B;
   border: 0;
+  border-radius: 1.5rem;
   color: #FFFFFF;
   cursor: pointer;
   font-size: 1rem;
